@@ -1,2 +1,6 @@
-puts "hello world"
-puts "how you doin?"
+stnum = 7
+2ndnum = 14
+
+sum = 1stnum + 2ndnum
+
+puts sum 
