@@ -1,6 +1,3 @@
-firstnum = 7
-secondnum = 14
+former_pres = "Obama"
 
-sum = firstnum + secondnum
-
-puts sum
+puts "Please give us #{former_pres} back!"
