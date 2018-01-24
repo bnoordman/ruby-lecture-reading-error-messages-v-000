@@ -1,6 +1,6 @@
-1stnum = 7
-2ndnum = 14
+firstnum = 7
+secondnum = 14
 
-sum = 1stnum + 2ndnum
+sum = firstnum + secondnum
 
 puts sum
